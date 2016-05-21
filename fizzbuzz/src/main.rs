@@ -1,0 +1,2 @@
+fn fizzbuzz(val: i32){if val % 15 == 0{println!("Fizzbuzz")} else if val % 5 == 0{println!("Buzz");} else if val % 3 == 0{println!("Fizz");} else {println!("{}",val);}}
+fn main() {for val in 1..101 {fizzbuzz(val);}}

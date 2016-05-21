@@ -1,0 +1,6 @@
+[package]
+name = "conrod"
+version = "0.1.0"
+authors = ["Bryan <Bpadron2000@gmail.com>"]
+[dependencies]
+conrod = "0.22.2"
